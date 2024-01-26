@@ -12,7 +12,7 @@
     <header class="navbar">
         <div class="nav_in">
             <div class="nav_left">
-            <a href="#"><img src="logo.jpg"></a>
+            <a href="#"><img src="images/logo.jpg"></a>
             </div>
             <ul class="nav_middle">
                 <li class="pad">
@@ -46,10 +46,11 @@
         <div class="main1">
             <div class="heading1">
                 <h1>Understanding the 5 Love Languages</h1><br>
-                <img src="icon1.jpeg" alt="picture">
+                <img src="images/icon1.jpeg" alt="picture">
             </div>
             <div class="find">
-                <button class="btn_find">Find your Love Language</button>
+                <a href="index.php" class="btn_find" style="text-decoration: none;">Find your Love Language</a>
+                
             </div>
             <hr color="blue">
 
@@ -97,7 +98,7 @@
                 </p>
 
                 <div class="find">
-                    <button class="btn_find">Find your Love Language</button>
+                    <a href="index.php" class="btn_find" style="text-decoration: none;">Find your Love Language</a>
                 </div>
                 <hr color="blue">
                     <h3>Types of Love Languages</h3>
@@ -105,35 +106,35 @@
                     <div class="card-list">
                         <a href="physical-touch.html">
                             <div class="first-card">
-                            <img src="physical-touch.jpeg" alt="physical-touch" style="width:100%">
+                            <img src="images/physical-touch.jpeg" alt="physical-touch" style="width:100%">
                             <h3>Physical Touch</h3>
                         </a>
                         </div>
 
                         <div class="second-card">
-                        <a href="index.php">
-                            <img src="quality-time.jpeg" alt="quality-time" style="width:100%">
+                        <a href="quality-time.html">
+                            <img src="images/quality-time.jpeg" alt="quality-time" style="width:100%">
                             <h3>Quality Time</h3>
                         </a>
                         </div>
 
-                        <a href="index.php">
                         <div class="third-card">
-                            <img src="receiving-gifts.jpeg" alt="receiving-gifts" style="width:100%">
+                        <a href="receiving-gifts.html">
+                            <img src="images/receiving-gifts.jpeg" alt="receiving-gifts" style="width:100%">
                             <h3>Receiving Gifts</h3>
                             </a>
                         </div>
 
-                        <a href="index.php">
                         <div class="fourth-card">
-                            <img src="words-of-affirmation.jpeg" alt="words-of-affirmation" style="width:100%">
+                        <a href="words-of-affirmation.html">
+                            <img src="images/words-of-affirmation.jpeg" alt="words-of-affirmation" style="width:100%">
                             <h3>Words of Affirmation</h3>
                             </a>
                         </div>
 
-                        <a href="index.php">
                         <div class="fifth-card">
-                            <img src="act_of_service.jpeg" alt="act_of_service" style="width:100%">
+                        <a href="act-of-service.html">
+                            <img src="images/act_of_service.jpeg" alt="act_of_service" style="width:100%">
                             <h3>Act of Service</h3>
                             </a>
                         </div>

@@ -12,7 +12,7 @@
     <header class="navbar">
         <div class="nav_in">
             <div class="nav_left">
-                <a href="#"><img src="logo.jpg" alt="logo"> </a>
+                <a href="#"><img src="images/logo.jpg" alt="logo"> </a>
             </div>
             <ul class="nav_middle">
                 <li class="pad">

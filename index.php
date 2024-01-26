@@ -14,7 +14,7 @@
     <header class="navbar">
         <div class="nav_in">
             <div class="nav_left">
-                <img src="logo.jpg">
+                <img src="images/logo.jpg">
             </div>
             <ul class="nav_middle">
                 <li class="pad">
@@ -223,7 +223,7 @@
         © 2024 Love Language Test v1.4.2
         </div>
         <div class="col2">
-        Made by <span class="foot_s">  ♥</span> & Gopal Chitaure
+        Made by <span class="foot_s">  ♥</span> 
         </div>
         <div class="col3">
         <a href="home.php" class="foot_a">Home</a>
