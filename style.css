@@ -441,7 +441,10 @@ footer div{
     color: #1d4ed8;
 
 }
-
+/* privacy page */
+.privacy-list li{
+    color: black;
+}
 
 
 
