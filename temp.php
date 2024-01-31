@@ -57,7 +57,7 @@ function setActive(clickedButton) {
     }
   </style>
   <title>Active Button Group</title>
-</head>
+</head> 
 <body>
 
 <button class="group-button" onclick="setActive(this)">Button 1</button>
