@@ -6,6 +6,7 @@
     <title>About Us</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="style.css">
+    <script src="sidebar.js"></script>
 
 </head>
 <body>
@@ -16,7 +17,7 @@
             </div>
             <ul class="nav_middle">
                 <li class="pad">
-                <a href="index.php">Home</a>
+                <a href="home.php">Home</a>
                 </li>
                 <li class="pad">
                 <a href="blog.php">Blog</a>
@@ -41,6 +42,76 @@
         </div>
 
     </header>
+    <div class="wrapper">
+    <div class="sidebar">
+        <ul>
+            <li><a href="home.php">
+                <span class="item">Home</span>
+            </a></li>
+            <li><a href="home.php">
+                <span class="item">Love Language Test</span>
+            </a></li>
+            <li><a href="about.php">
+                <span class="item">About Love Language Test</span>
+            </a></li>
+            <li><a href="compatibilitytest.php">
+                <span class="item">Love Language Compatibility</span>
+            </a></li>
+            <li><a href="about.php">
+                <span class="item">About Love Language</span>
+            </a></li>
+            <li><a href="compatibilitytest.php">
+                <span class="item">Compatibility</span>
+            </a></li>
+            <li>
+        <hr class="my-8 border-t border-blue-300">
+
+        </li>
+        <li><a href="love-language.php">
+                <span class="item">5 Love Languages</span>
+            </a></li>
+            <li><a href="act-of-service.html">
+                <span class="item">Act of Service</span>
+            </a></li>
+            <li><a href="physical-touch.html">
+                <span class="item">Physical Touch</span>
+            </a></li>
+            <li><a href="#">
+                <span class="item">Blog</span>
+            </a></li>
+            <li><a href="receiving-gifts.html">
+                <span class="item">Receiving Gifts</span>
+            </a></li>
+            <li><a href="words-of-affirmation.html">
+                <span class="item">Words Of Affirmation</span>
+            </a></li>
+            <li><a href="quality-time.html">
+                <span class="item">Quality Time</span>
+            </a></li>
+            <li><a href="understanding-mis.html">
+                <span class="item">Understanding </span>
+            </a></li>
+            <li><a href="understanding-mis.html">
+                <span class="item">Miscommunication</span>
+            </a></li>
+            <li><a href="why-to.html">
+                <span class="item">Importance of Understanding </span>
+            </a></li>
+            <li><a href="love-language.php">
+                <span class="item">Love Languages </span>
+            </a></li>
+            <li>
+            <hr class="my-8 border-t border-blue-300">
+        </li>
+        <li><a href="privacy-policy.html">
+                <span class="item">Privacy policy</span>
+            </a></li>
+
+        </ul>
+    </div>
+</div>
+
+<div class="main">
 
     <div class="main1">
         <div class="heading1">
@@ -118,7 +189,7 @@
             </ul>
         </div>
     </div>
-
+</div>
     <footer class="main_foot">
         <div class="col1">
         © 2024 Love Language Test v1.4.2
